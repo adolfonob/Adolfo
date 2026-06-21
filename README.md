@@ -1,0 +1,2 @@
+# Adolfo
+Generador termux 
